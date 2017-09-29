@@ -1,0 +1,35 @@
+html {
+	font-family: sans-serif;
+}
+
+body {
+	background-color: lightblue;
+}
+
+header {
+	font-size: 25px;
+	font-style: bold;
+	background-color: red;
+	background-repeat: no-repeat;
+	position: absolute;
+	width: 100%;
+	top: 0;
+	left: 0; 
+	text-align: center;
+}
+
+footer {
+	
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: grey;
+}
+
+li {
+	display: inline;
+}
