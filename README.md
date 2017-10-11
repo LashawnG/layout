@@ -39,7 +39,7 @@ Wanneer je een mooi nieuwsportaal hebt gemaakt voor jouw favoriete hobby, kun je
 #### HTML/CSS
 * [Voorbeeld webpagina over auto's](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home.jpg)
 * [Wat zijn de nieuwe HTML5 elementen?](http://www.w3schools.com/html/html5_new_elements.asp)
-* [Hoe moet ik met flex display aan de slag?](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Hoe mobielt ik met flex display aan de slag?](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Voorbeeld webpagina tablet](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home-tablet.jpg)
 * [Voorbeeld webpagina mobiel](https://www.jwhuisman.nl/dvc/2016/layout/voorbeelden/home-mobiel.jpg)
 * [Hoe gebruik ik een media query?](http://www.w3schools.com/cssref/css3_pr_mediaquery.asp)
